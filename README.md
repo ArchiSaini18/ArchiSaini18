@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>💫 About Me:<br>🔭 I’m currently working on a LLM and RAG and DSA Challenge.<br>👯 I’m looking to collaborate on open-source machine learning, data analysis, and LLM-based projects.<br>🤝 I’m looking for help with mastering advanced machine learning techniques and production-level AI systems.<br>🌱 I’m currently learning advanced machine learning algorithms, LLMs, and RAG (Retrieval-Augmented Generation).<br>💬 Ask me about how to get started with machine learning, data analysis, and LLM applications.<br>📫 How to reach me: archisaini8077@email.com<br><br>⚡ Fun fact – I am Lazy but Smart 😄
+<br>💫 About Me:<br>🔭 I’m currently working on a LLM and RAG and DSA Challenge.<br>👯 I’m looking to collaborate on open-source machine learning, data analysis, and LLM-based projects.<br>🤝 I’m looking for help with mastering advanced machine learning techniques and production-level AI systems.<br>🌱 I’m currently learning advanced machine learning algorithms, LLMs, and RAG (Retrieval-Augmented Generation).<br>💬 Ask me about how to get started with machine learning, data analysis, and LLM applications.<br>📫 How to reach me: archisaini8077@email.com<br><br> ⚡ Fun fact – Calm mind, sharp algorithms 🧠
 
 
 ## 🌐 Socials:
